@@ -1,0 +1,21 @@
+{
+  "name": "unit5-code-along",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.0.3",
+    "supertest": "^7.1.1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
